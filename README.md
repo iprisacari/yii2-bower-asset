@@ -9,6 +9,7 @@
 Yii 2 official Composer repository solution for Bower Assets
 
 [![Latest Stable Version](https://poser.pugx.org/yidas/yii2-bower-asset/v/stable?format=flat-square)](https://packagist.org/packages/yidas/yii2-bower-asset)
+[![Total Downloads](https://poser.pugx.org/yidas/yii2-bower-asset/downloads?format=flat-square)](https://packagist.org/packages/yidas/yii2-bower-asset)
 [![Latest Unstable Version](https://poser.pugx.org/yidas/yii2-bower-asset/v/unstable?format=flat-square)](https://packagist.org/packages/yidas/yii2-bower-asset)
 [![License](https://poser.pugx.org/yidas/yii2-bower-asset/license?format=flat-square)](https://packagist.org/packages/yidas/yii2-bower-asset)
 
