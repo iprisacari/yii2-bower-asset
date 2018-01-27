@@ -16,15 +16,15 @@ Yii 2 official Composer repository solution for Bower Assets
 FEATURES
 --------
 
-***1. Install or update Bower assets for Yii 2 app via Composer without any plugin (Even v2.0.13 above)***
+- ***Install or update Bower assets** for Yii 2 app via Composer **without any plugin** (Even v2.0.13 above)*
 
-***2. Prevent the error of Bower packages when using Composer install & update for Yii2***
+- ***Prevent the error of Bower packages** when using Composer install & update for Yii2*
 
-> Problem 1
->
->   \- yiisoft/yii2 2.0.12 requires bower-asset/jquery 2.2.*@stable | 2.1.*@stable | 1.11.*@stable | 1.12.*@stable -> no matching package found.
+  > Problem 1
+  >
+  >    \- yiisoft/yii2 2.0.12 requires bower-asset/jquery 2.2.*@stable | 2.1.*@stable | 1.11.*@stable | 1.12.*@stable -> no matching package found.
 
-***3. Official install way by using original Composer repository***
+- ***Official install way** by using original Composer repository*
 
 > Got tired of [fxp/composer-asset-plugin](https://github.com/fxpio/composer-asset-plugin)? It's a good project with nice idea and good implementation. But it has some issues: it slows down composer update a lot and requires global installation, so affects all projects. Also there are Travis and Scrutinizer integration special problems, that are a bit annoying.
 
