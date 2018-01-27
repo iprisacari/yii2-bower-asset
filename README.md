@@ -18,11 +18,11 @@ FEATURES
 
 - ***Install or update Bower assets** for Yii 2 app via Composer **without any plugin** (Even v2.0.13 above)*
 
-- ***Prevent the error of Bower packages** when using Composer install & update for Yii2*  
-  
+- ***Prevent the error of Bower packages** when using Composer install & update for Yii2*
+
   > Problem 1
   >
-  >    \- yiisoft/yii2 2.0.12 requires bower-asset/jquery 2.2.*@stable | 2.1.*@stable | 1.11.*@stable | 1.12.*@stable -> no matching package found.
+  >   \- yiisoft/yii2 2.0.12 requires bower-asset/jquery 2.2.*@stable | 2.1.*@stable | 1.11.*@stable | 1.12.*@stable -> no matching package found.
 
 - ***Official install way** by using original Composer repository*
 
