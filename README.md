@@ -175,8 +175,8 @@ LIMITATION
 
 ***Do not use Bower mixed with Composer project*** is the goal of this package.
 
-> 1. The variety of Bower packages are just for Yii2 cores. 
->
-> 2. The versions of Bower packages are fixed to current Yii2 version.
->
-> 3. If you are requiring other Bower packages in Yii2, you could set the config fit to this package or not to use. 
+1. The variety of Bower packages are just for Yii2 cores. 
+
+2. The versions of Bower packages are fixed to current Yii2 version.
+
+3. If you are requiring other Bower packages in Yii2, you could set the config fit to this package or not to use. 
