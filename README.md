@@ -6,7 +6,7 @@
     <br>
 </p>
 
-Yii 2 official Composer repository solution for Bower Assets
+Yii 2 core Bower packages for official Composer repository installation
 
 [![Latest Stable Version](https://poser.pugx.org/yidas/yii2-bower-asset/v/stable?format=flat-square)](https://packagist.org/packages/yidas/yii2-bower-asset)
 [![Total Downloads](https://poser.pugx.org/yidas/yii2-bower-asset/downloads?format=flat-square)](https://packagist.org/packages/yidas/yii2-bower-asset)
