@@ -29,7 +29,7 @@ FEATURES
 
 > Got tired of [fxp/composer-asset-plugin](https://github.com/fxpio/composer-asset-plugin)? It's a good project with nice idea and good implementation. But it has some issues: it slows down composer update a lot and requires global installation, so affects all projects. Also there are Travis and Scrutinizer integration special problems, that are a bit annoying.
 
-Compare with [Asset Packagist](https://asset-packagist.org/), this package goals to install the Bower assets for Yii2 app by original Composer repository, and makes Bower separated from Composer .
+Compare with [Asset Packagist](https://asset-packagist.org/), this package only for installing the Bower packages for Yii2 app by using original Composer repository, which goals to makes Bower separated from Composer .
 
 ### Supported Packages
 
